@@ -1,9 +1,14 @@
-Python ST7735
+Python ST7735 library for 1.8" SPI tft Display interfacing with Rapberry PI
 =======================
 
 Python library to control an ST7735 TFT LCD display.  Allows simple drawing on the display without installing a kernel module.
 
 Designed specifically to work with a ST7735 based 128x160 pixel TFT SPI display.
+
+Connections:::::::::::::
+=========================
+1.  https://raw.githubusercontent.com/VirusHQ/youtube_video_tutorial_codes/master/2.8_LCD_display_on_a_Raspberry_Pi_ft_ILI9341/wiring_diagram.png
+2.  https://docs.particle.io/assets/pdfs/raspberry-pi/datasheet.pdf
 
 For all platforms (Raspberry Pi and Beaglebone Black) make sure you have the following dependencies:
 
