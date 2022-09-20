@@ -5,7 +5,7 @@ Python library to control an ST7735 TFT LCD display.  Allows simple drawing on t
 
 Designed specifically to work with a ST7735 based 128x160 pixel TFT SPI display.
 
-Connections:::::::::::::
+Connections:::::::::::::(Updated)(Changing according to your pin setup dc and reset pins)
 =========================
 1.  https://raw.githubusercontent.com/VirusHQ/youtube_video_tutorial_codes/master/2.8_LCD_display_on_a_Raspberry_Pi_ft_ILI9341/wiring_diagram.png
 2.  https://docs.particle.io/assets/pdfs/raspberry-pi/datasheet.pdf
